@@ -157,7 +157,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 }
 
 #profile .portrate {
-	background-image: url(../Images/suraj.jpg);
+	background-image: url(../Images/girrafe.jpg);
 	width: 125px;
 	margin: 0 auto;
 	height: 125px;
@@ -1178,6 +1178,7 @@ ul.timeline .date {
 	left: -250px;
 	z-index: 3;
 }
+
 
 #main {
 	left: 0;
